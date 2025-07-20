@@ -1,2 +1,2 @@
 # Memora-R-Project
-Machine learning project using R to diagnose Alzheimer's disease by comparing supervised models (KNN, Logistic Regression, Random Forest, SVM) with hybrid approaches that combine supervised learning and unsupervised clustering (k-means) to evaluate if this combination improves prediction accuracy.
+Projet de machine learning utilisant R pour diagnostiquer la maladie d’Alzheimer en comparant des modèles supervisés (KNN, régression logistique, Random Forest, SVM) avec des approches hybrides combinant apprentissage supervisé et clustering non supervisé (k-means) afin d’évaluer si cette combinaison améliore la précision des prédictions.
